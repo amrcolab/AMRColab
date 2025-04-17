@@ -31,7 +31,7 @@ Below are the list of different AMRColab Modules.
 
 ## 📘 License
 
-This notebook is shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+AMRColab is shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are free to use, share, and adapt this work, even commercially, **as long as appropriate credit is given**.
 
 Please cite the following paper if you use this notebook in your research or application:

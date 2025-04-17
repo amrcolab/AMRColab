@@ -19,13 +19,13 @@ Below are the list of different AMRColab Modules.
 | :-------- |
 | [AMRFinderPlus module ](https://tinyurl.com/AMRColab-AMRFinderPlus) |
 | [AMRFinderPlus_batch_module](https://tinyurl.com/AMRColab-AMRFinderPlus-batch)|
-| [ResFinder module ](https://tinyurl.com/AMRColab-ResFinder) |
-| [ResFinder_batch_module](https://tinyurl.com/AMRColab-ResFinder-batch)|
 | [hAMRonization_module](https://tinyurl.com/AMRcolab-hAMRonization) |
 | [hARMonization_batch_module](https://tinyurl.com/AMRcolab-hAMRonization-batch)|
 | [Visualisation_module](https://tinyurl.com/AMRcolab-microreact)|
 | |
 | **BETA modules** |
+| [ResFinder module ](https://tinyurl.com/AMRColab-ResFinder) |
+| [ResFinder_batch_module](https://tinyurl.com/AMRColab-ResFinder-batch)|
 | [Genome_assembly_module](https://tinyurl.com/AMRColab-GenomeAssemblyModule)|
 | |
 

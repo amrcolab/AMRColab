@@ -13,7 +13,9 @@ and visualise AMR determinants in pathogen genomes through an intuitive,‘ plug
 platform integrates established tools such as AMRFinderPlus, ResFinder and hAMRonization, facilitating
 comparative analysis and transmission trend visualisation of AMR pathogens.
 
-| Notebooks |
+Below are the list of different AMRColab Modules.
+
+| Modules |
 | :-------- |
 | [AMRFinderPlus module ](https://tinyurl.com/AMRColab-AMRFinderPlus) |
 | [AMRFinderPlus_batch_module](https://tinyurl.com/AMRColab-AMRFinderPlus-batch)|
@@ -23,7 +25,7 @@ comparative analysis and transmission trend visualisation of AMR pathogens.
 | [hARMonization_batch_module](https://tinyurl.com/AMRcolab-hAMRonization-batch)|
 | [Visualisation_module](https://tinyurl.com/AMRcolab-microreact)|
 | |
-| **BETA notebooks** |
+| **BETA modules** |
 | [Genome_assembly_module](https://tinyurl.com/AMRColab-GenomeAssemblyModule)|
 | |
 

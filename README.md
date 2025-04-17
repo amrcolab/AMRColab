@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Antimicrobial resistance (AMR) is a growing global health crisis, projected to cause 39 million fatalities
+between 2025-2050. Timely and accurate surveillance of AMR pathogens is essential for tracking their
+resistance profiles and guiding interventions. However, many healthcare and public health professionals face
+barriers in bioinformatics expertise and computational resources, limiting their ability to analyse pathogen
+genomes effectively.
+
+To bridge this gap, with mentoring from Public Health Alliance for Genomic Epidemiology (PHA4GE),
+we developed AMRColab, an open-access bioinformatics suite hosted on Google Colaboratory (Lam et al.
+2024). Designed for ease of use, AMRColab enables users with minimal bioinformatics experience to detect
+and visualise AMR determinants in pathogen genomes through an intuitive,‘ plug-and-play ’approach. Our
+platform integrates established tools such as AMRFinderPlus, ResFinder and hAMRonization, facilitating
+comparative analysis and transmission trend visualisation of AMR pathogens.
+
 | Notebooks |
 | :-------- |
 | [AMRFinderPlus module ](https://tinyurl.com/AMRColab-AMRFinderPlus) |

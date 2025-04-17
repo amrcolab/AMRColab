@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+## 📘 License
+
+This notebook is shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to use, share, and adapt this work, even commercially, **as long as appropriate credit is given**.
+
+Please cite the following paper if you use this notebook in your research or application:
+
+**Lam SD**, et al. (2024). *AMRColab – a user-friendly antimicrobial resistance detection and visualization tool*.  
+Published in Microbial Genomics. https://doi.org/10.1099/mgen.0.001308
+
+
 <!--
 **amrcolab/AMRColab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

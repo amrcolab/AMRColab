@@ -24,6 +24,12 @@ Please cite the following paper if you use this notebook in your research or app
 **Lam SD**, et al. (2024). *AMRColab – a user-friendly antimicrobial resistance detection and visualization tool*.  
 Published in Microbial Genomics. https://doi.org/10.1099/mgen.0.001308
 
+## 📘 Manual
+Su Datt Lam, Sabrina Di Gregorio, Mia Yang Ang, Tengku Zetty Maztura Tengku Jamaluddin, Sheila Nathan, & Hui-min Neoh. (2023). Running AMR bioinformatic tools using Google colab (2.0). Zenodo. https://doi.org/10.5281/zenodo.7814532
+
+## 📘 Queries
+If you have any queries, please drop us an email via amrcolab@ukm.edu.my
+
 
 <!--
 **amrcolab/AMRColab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

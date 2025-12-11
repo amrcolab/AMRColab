@@ -26,8 +26,8 @@ Below are the list of different AMRColab Modules.
 | **BETA modules** |
 | [ResFinder module ](https://tinyurl.com/AMRColab-ResFinder) |
 | [ResFinder_batch_module](https://tinyurl.com/AMRColab-ResFinder-batch)|
-| [Genome_assembly_module](https://tinyurl.com/AMRColab-GenomeAssemblyModule)|
-| |
+| [Genome_assembly_module-Spades+Quast](https://tinyurl.com/AMRColab-GenomeAssemblyModule)|
+| [Genome_assembly_module-Flye+Medaka+Bactinspector](https://colab.research.google.com/drive/1784nTMTxyXWxGv73eWl5mB8EJ3IOqON1?usp=sharing)|
 
 ## 📘 License
 
